@@ -1,0 +1,3 @@
+Ivan Ivanov (Full, Physics, Engineer, 1000)
+Petro Petrovich (Bachelor, Music, Sales Manager, 800)
+Mixail Mixialov (Master, Chemistry, Supervisor, 1100)
